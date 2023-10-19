@@ -1,0 +1,5 @@
+CodTamanho                    Descricao
+1                             Pequeno            
+2                             Médio              
+3                             Grande             
+4                             Extra Grande       

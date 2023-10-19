@@ -1,0 +1,11 @@
+CodVendedor	Nome	PercComissao	SalarioFixo
+1	Rogério	10	1500
+2	Leonardo	10	1500
+3	Luciana	10	1500
+4	Patrícia	10	1500
+5	Everaldo	10	1500
+6	Luiza	10	1600
+7	Luis Carlos	10	1500
+8	Otávio	10	1500
+9	Fernanda	10	1500
+10	Gilda	15	2000
